@@ -1,8 +1,8 @@
 # Belajar Fundamental Analisis Data - Dicoding
 
 ## Setup Environment - Shell/Terminal
-mkdir Latihan_Belajar_Fundamental_Analisis_Data-ID_Camp<br>
-cd Latihan_Belajar_Fundamental_Analisis_Data-ID_Camp<br>
+mkdir Latihan_Belajar_Fundamental_Analisis_Data_ID_Camp<br>
+cd Latihan_Belajar_Fundamental_Analisis_Data_ID_Camp<br>
 pipenv install<br>
 pipenv shell<br>
 pip install -r requirements.txt
